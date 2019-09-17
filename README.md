@@ -6,6 +6,13 @@ Convert and calculate on decimal, binary and hexadecimal made by 1712206 and 171
 2. Do nothing
 3. Do thing none
 
+## Requirements
+o ABC
+
+## Steps to do
+o Nothing
+O none
+
 # B. Credentials
 user: `vinh`
 pass: 12345678
@@ -32,3 +39,6 @@ string QInt::mul2(string obj)
 	return result;
 }
 ```
+
+C# . Instruction
+Nothing to guide people here. Do it yourself.
