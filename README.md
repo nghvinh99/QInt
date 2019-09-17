@@ -47,4 +47,5 @@ Nothing to guide people here. Do it yourself.
 _MIT_
 
 # E. Misc
-\*this is for testing*\
+\*this is for testing\*
+*You don't have to do this*
