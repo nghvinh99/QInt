@@ -32,3 +32,9 @@ string QInt::mul2(string obj)
 	return result;
 }
 ```
+
+# C. License
+_MIT_
+
+# D. Misc
+\*this is for testing*\
